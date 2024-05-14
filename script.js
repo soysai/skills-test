@@ -5,8 +5,6 @@ function add(x, y) {
     console.log(result);
   }
   
-  // to call the function:
-  add(2, 3);
 
 // to create a function that makes the circle green when called 
 
